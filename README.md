@@ -54,6 +54,9 @@ python visualisation.py
 
 The script will generate a high-resolution plot (`cars-highres.png`) and display the interactive visualization.
 
+![Car Characteristics Visualization](assignment-1/cars-highres.png)
+
+
 ## Output
 The visualization will be saved as `cars-highres.png` with a resolution of 500 DPI, suitable for publication or detailed viewing.
 
