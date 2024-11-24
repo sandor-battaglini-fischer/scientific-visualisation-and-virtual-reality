@@ -1,3 +1,19 @@
 /.DS_Store
 /.conda
 /__pycache__
+*.vts
+*.raw
+*.vtk
+/SVVR volume data sets
+*.pvsm
+get-pip.py
+heat_output.pdf
+heat_output_t0.pdf
+heat_output_t1500.pdf
+heat_output_t200.pdf
+heat_sim.pvd
+heat_sim/heat_sim_0.vtp
+Heat_simulation.png
+heat_simulation_source.py
+histogram.png
+mystery.py
